@@ -1,4 +1,5 @@
 #summary One-sentence summary of this page.
+#labels Featured,Phase-Design
 
 = Introduction =
 
@@ -21,4 +22,3 @@ http://hiphotos.baidu.com/dflower/pic/item/e528d916c620f26e972b43ad.jpg
 Use apktool to decompile an APK file, and check the security level of the functions in smali files by the customized rules(funtions.txt)
 
 http://hiphotos.baidu.com/dflower/pic/item/47513329a5ebb98899250a87.jpg
-
